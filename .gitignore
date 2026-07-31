@@ -1,0 +1,10 @@
+# Archivos compilados
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/workspace.xml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
